@@ -5,12 +5,12 @@ Link to create this template: https://github.com/durgeshsamariya/awesome-github-
 
 - my [LinkedIn](www.linkedin.com/in/mojtaba-nafez-80a4271b4/)
 
-## I'm an AI Researcher 
+## I’m a Master's Student
 
-- 🔭 I love research topics in Deep Learning & Computer Vision
-- 🌱 I'm currently learning about Vision
-- 🔨 I’m currently working on image processing.
-- 👯 I’m looking to collaborate on image related Startups
+- 🔭 I love research topics related to machine learning
+- 🌱 I'm currently working on some research projects
+- 🔨 I'm currently working on the trustworthiness and reliability of machine learning models.
+- 👯 I’m seeking a PhD position.
 - 📫 How to reach me: 
   - Email: mojtabanafez96@gmail.com
   - LinkedIn: www.linkedin.com/in/mojtaba-nafez-80a4271b4/
