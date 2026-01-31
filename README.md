@@ -3,7 +3,7 @@ Link to create this template: https://github.com/durgeshsamariya/awesome-github-
 -->
 # Hi there, I'm Mojtaba Nafez 👋
 
-- [Scholar]([https://mojtaba-nafez.github.io/](https://scholar.google.com/citations?user=v0QfY20AAAAJ&hl=en))
+- [Scholar](https://scholar.google.com/citations?user=v0QfY20AAAAJ&hl=en)
 - [Website](https://mojtaba-nafez.github.io/)
 - [LinkedIn](www.linkedin.com/in/mojtaba-nafez-80a4271b4/)
 
