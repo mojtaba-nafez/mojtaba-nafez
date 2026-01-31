@@ -17,7 +17,7 @@ Link to create this template: https://github.com/durgeshsamariya/awesome-github-
   - Email: mojtaba.nafez@epfl.ch
   - LinkedIn: www.linkedin.com/in/mojtaba-nafez/
 
-Keywords: `Computer Vision`, `Image Processing`, `Deep Learning`, `AI`, `NLP`
+Keywords: `Computer Vision`, `Machine Learning`, `Deep Learning`, `Automatic Speech Recognition`, `Video Anomaly Detection`, `Image Anomaly Detection`, `Adversarial Robustness`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mojtaba-nafez&show_icons=true&theme=monokai" alt="Mojtaba Nafez's GitHub stats" /><br />
