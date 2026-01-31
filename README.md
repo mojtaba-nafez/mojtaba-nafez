@@ -17,14 +17,14 @@ Link to create this template: https://github.com/durgeshsamariya/awesome-github-
   - Email: mojtaba.nafez@epfl.ch
   - LinkedIn: www.linkedin.com/in/mojtaba-nafez/
 
-Keywords: `Computer Vision`, `Machine Learning`, `Deep Learning`, `Automatic Speech Recognition`, `Video Anomaly Detection`, `Image Anomaly Detection`, `Adversarial Robustness`
+Keywords: `Computer Vision`, `Machine Learning`, `Deep Learning`, `Automatic Speech Recognition`, `Video Anomaly Detection`, `Image Anomaly Detection`, `Adversarial Robustness`, `Large Language Models`
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mojtaba-nafez&show_icons=true&theme=monokai" alt="Mojtaba Nafez's GitHub stats" /><br />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojtaba-nafez&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Mojtaba Nafez's GitHub stats" /><br />
-</p>
+</p> -->
 
 
 <!--
