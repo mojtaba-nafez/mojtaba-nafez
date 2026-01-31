@@ -6,15 +6,14 @@ Link to create this template: https://github.com/durgeshsamariya/awesome-github-
 - [LinkedIn](www.linkedin.com/in/mojtaba-nafez-80a4271b4/)
 - [Website](https://mojtaba-nafez.github.io/)
 
-## I’m a Master's Student
+## I’m a Phd Student
 
-- 🔭 I love research topics related to machine learning
-- 🌱 I'm currently working on some research projects
-- 🔨 I'm currently working on the trustworthiness and reliability of machine learning models.
-- 👯 I’m seeking a PhD position.
+- 🔭 I love research topics related to Machine Learning
+- 🌱 I'm currently working on Large Language Models
+- 🔨 I previously worked on the trustworthiness and reliability of machine learning models, including anomaly detection in images and videos, as well as the robustness of automatic speech recognition systems.
 - 📫 How to reach me: 
-  - Email: mojtabanafez96@gmail.com
-  - LinkedIn: www.linkedin.com/in/mojtaba-nafez-80a4271b4/
+  - Email: mojtaba.nafez@epfl.ch
+  - LinkedIn: www.linkedin.com/in/mojtaba-nafez/
 
 Keywords: `Computer Vision`, `Image Processing`, `Deep Learning`, `AI`, `NLP`
 
