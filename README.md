@@ -3,14 +3,16 @@ Link to create this template: https://github.com/durgeshsamariya/awesome-github-
 -->
 # Hi there, I'm Mojtaba Nafez 👋
 
-- [LinkedIn](www.linkedin.com/in/mojtaba-nafez-80a4271b4/)
+- [Scholar]([https://mojtaba-nafez.github.io/](https://scholar.google.com/citations?user=v0QfY20AAAAJ&hl=en))
 - [Website](https://mojtaba-nafez.github.io/)
+- [LinkedIn](www.linkedin.com/in/mojtaba-nafez-80a4271b4/)
 
 ## I’m a Phd Student
 
 - 🔭 I love research topics related to Machine Learning
 - 🌱 I'm currently working on Large Language Models
 - 🔨 I previously worked on the trustworthiness and reliability of machine learning models, including anomaly detection in images and videos, as well as the robustness of automatic speech recognition systems.
+- 👯 I’m open to collaborating on exciting machine learning projects. If our research interests align, don’t hesitate to get in touch. 
 - 📫 How to reach me: 
   - Email: mojtaba.nafez@epfl.ch
   - LinkedIn: www.linkedin.com/in/mojtaba-nafez/
